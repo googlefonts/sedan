@@ -1,0 +1,8 @@
+familyName: Sedan SC
+sources:
+  - SedanSC-Regular.glyphs
+buildTTF: true
+buildOTF: false
+buildStatic: true
+buildWebfont: false
+buildVariable: false

@@ -1,0 +1,9 @@
+familyName: Sedan
+sources:
+  - Sedan-Regular.glyphs
+  - Sedan-Italic.glyphs
+buildTTF: true
+buildOTF: false
+buildStatic: true
+buildWebfont: false
+buildVariable: false
