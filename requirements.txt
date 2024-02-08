@@ -122,3 +122,4 @@ wsproto==1.2.0
 youseedee==0.3.0
 zipp==3.15.0
 zopfli==0.2.2
+opentype_feature_freezer
