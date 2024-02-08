@@ -1,10 +1,6 @@
 {
 .appVersion = "3151";
 .formatVersion = 3;
-DisplayStrings = (
-"HHHLTLTHHHLVLVHHHLWLWHHHLYLYHHH
-"
-);
 classes = (
 {
 automatic = 1;
@@ -947,7 +943,7 @@ unicode = 195;
 },
 {
 glyphname = AE;
-lastChange = "2024-02-08 10:38:53 +0000";
+lastChange = "2024-02-08 11:15:37 +0000";
 layers = (
 {
 hints = (
@@ -2595,7 +2591,7 @@ unicode = 288;
 },
 {
 glyphname = H;
-lastChange = "2023-03-28 14:40:20 +0000";
+lastChange = "2024-02-08 11:18:47 +0000";
 layers = (
 {
 anchors = (
@@ -2614,6 +2610,14 @@ pos = (423,675);
 {
 name = topleft;
 pos = (20,675);
+}
+);
+guides = (
+{
+pos = (363,950);
+},
+{
+pos = (363,-250);
 }
 );
 hints = (
@@ -36479,6 +36483,7 @@ W = -15;
 "@MMK_R_quoteleft" = 70;
 "@MMK_R_quoteright" = 80;
 "@MMK_R_v" = -80;
+AE = -60;
 asterisk = 50;
 backslash = 80;
 colon = -40;
@@ -36515,6 +36520,7 @@ underscore = -80;
 "@MMK_R_quoteleft" = 50;
 "@MMK_R_quoteright" = 70;
 "@MMK_R_u.sc" = -30;
+AE = -80;
 ae.sc = -110;
 ampersand = -30;
 asterisk = 30;
@@ -36544,6 +36550,7 @@ underscore = -100;
 "@MMK_R_quotedbl" = 100;
 "@MMK_R_quoteleft" = 80;
 "@MMK_R_quoteright" = 110;
+AE = -60;
 asterisk = 40;
 backslash = 110;
 degree = 60;
