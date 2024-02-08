@@ -1,6 +1,10 @@
 {
 .appVersion = "3151";
 .formatVersion = 3;
+DisplayStrings = (
+"HHHLTLTHHHLVLVHHHLWLWHHHLYLYHHH
+"
+);
 classes = (
 {
 automatic = 1;
@@ -576,7 +580,7 @@ glyphs = (
 glyphname = A;
 kernLeft = A;
 kernRight = A;
-lastChange = "2024-02-08 10:38:45 +0000";
+lastChange = "2024-02-08 11:04:34 +0000";
 layers = (
 {
 anchors = (
@@ -6081,7 +6085,7 @@ unicode = 7838;
 glyphname = T;
 kernLeft = T;
 kernRight = T;
-lastChange = "2024-02-08 10:48:28 +0000";
+lastChange = "2024-02-08 11:06:03 +0000";
 layers = (
 {
 anchors = (
@@ -6634,7 +6638,7 @@ unicode = 366;
 glyphname = V;
 kernLeft = V;
 kernRight = V;
-lastChange = "2024-02-08 10:39:52 +0000";
+lastChange = "2024-02-08 11:06:36 +0000";
 layers = (
 {
 hints = (
@@ -6742,7 +6746,7 @@ unicode = 86;
 glyphname = W;
 kernLeft = V;
 kernRight = V;
-lastChange = "2024-02-08 10:48:13 +0000";
+lastChange = "2024-02-08 11:07:08 +0000";
 layers = (
 {
 anchors = (
@@ -7198,7 +7202,7 @@ unicode = 88;
 glyphname = Y;
 kernLeft = Y;
 kernRight = Y;
-lastChange = "2024-02-08 10:48:22 +0000";
+lastChange = "2024-02-08 11:06:17 +0000";
 layers = (
 {
 anchors = (
@@ -36403,8 +36407,8 @@ width = 600;
 kerningLTR = {
 "8832323D-7B51-42FA-AB4B-A01DBB0D4C02" = {
 "@MMK_L_A" = {
-"@MMK_R_T" = -30;
-"@MMK_R_V" = -30;
+"@MMK_R_T" = -40;
+"@MMK_R_V" = -50;
 "@MMK_R_Y" = -30;
 "@MMK_R_comma" = 40;
 "@MMK_R_parenright" = -40;
@@ -36424,8 +36428,9 @@ semicolon = 20;
 periodcentered = -50;
 };
 "@MMK_L_L" = {
-"@MMK_R_T" = 10;
-"@MMK_R_V" = -10;
+"@MMK_R_T" = -50;
+"@MMK_R_V" = -40;
+"@MMK_R_Y" = -30;
 "@MMK_R_quotedbl" = -110;
 "@MMK_R_quoteleft" = -90;
 "@MMK_R_quoteright" = -80;
@@ -36460,7 +36465,7 @@ underscore = -100;
 W = -15;
 };
 "@MMK_L_T" = {
-"@MMK_R_A" = -30;
+"@MMK_R_A" = -40;
 "@MMK_R_a" = -50;
 "@MMK_R_a.sc" = -80;
 "@MMK_R_comma" = -73;
@@ -36494,7 +36499,7 @@ slash = -90;
 underscore = -80;
 };
 "@MMK_L_V" = {
-"@MMK_R_A" = -40;
+"@MMK_R_A" = -60;
 "@MMK_R_a" = -70;
 "@MMK_R_a.sc" = -80;
 "@MMK_R_comma" = -115;

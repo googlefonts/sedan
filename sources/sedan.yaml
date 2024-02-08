@@ -7,4 +7,4 @@ buildOTF: false
 buildStatic: true
 buildWebfont: false
 buildVariable: false
-outputDir: ../fonts/sedan
+outputDir: ../fonts
