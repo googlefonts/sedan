@@ -25941,6 +25941,15 @@ width = 268;
 unicode = 731;
 }
 );
+instances = (
+{
+instanceInterpolations = {
+"EE525628-5027-49A8-B1A1-7E2F3B98E9F5" = 1;
+};
+isItalic = 1;
+name = Italic;
+}
+);
 kerningLTR = {
 "EE525628-5027-49A8-B1A1-7E2F3B98E9F5" = {
 "@MMK_L_A" = {

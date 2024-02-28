@@ -1,7 +1,3 @@
-gftools builder sources/sedan.yaml
-
-# extract sc
-pyftfeatfreeze -f 'smcp' -S -U SC -R 'Sedan-/SedanSC-,Sedan /Sedan SC ' fonts/sedan/ttf/Sedan-Regular.ttf fonts/sedan/ttf/SedanSC-Regular.ttf
-
-# subset
-python scripts/shrink.py fonts/ttf/Sedan-Regular.ttf
+gftools builder sources/config.yaml
+gftools-rename-font -o fonts/ttf/SedanSC-Regular.ttf fonts/ttf/Sedan-Regular.ttf "Sedan SC"
+gftools-remap-layout fonts/ttf/SedanSC-Regular.ttf "smcp -> ccmp"
