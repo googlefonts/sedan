@@ -35866,13 +35866,10 @@ backslash = -50;
 periodcentered = -50;
 };
 "@MMK_L_l" = {
-"@MMK_R_h" = 70;
 "@MMK_R_hyphen" = -20;
-"@MMK_R_k" = 70;
 "@MMK_R_o" = -15;
 "@MMK_R_parenright" = 40;
 "@MMK_R_quoteleft" = 20;
-b = 70;
 };
 "@MMK_L_l.sc" = {
 "@MMK_R_guillemetleft" = -30;
